@@ -3,7 +3,7 @@
 
 ## 스터디 과목
 
-- [네트워크](https://github.com/sproutt/cs-world/tree/main/Network_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) 🌐
+- [네트워크](https://github.com/sproutt/cs-world/tree/main/Network_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README_NETWORK.md) 🌐
 - 운영체제 💻
 - 데이터베이스 💿
 - OOP / JAVA ☕️
