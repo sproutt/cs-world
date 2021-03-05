@@ -85,7 +85,7 @@
 ## JAVA 프로그램 동작과정
 
 ![_2021-03-02__8 17 39](https://user-images.githubusercontent.com/40922963/110082096-3d4c1d00-7dd0-11eb-8765-8c9329e8e092.png)
-																			
+
 [이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
 
 1. 코드 작성 : 이부분은 아직 JDK의 영역이 아니다. IDE(Eclipse, IntelliJ ...)의 부분
