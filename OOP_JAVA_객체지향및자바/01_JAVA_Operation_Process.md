@@ -13,11 +13,11 @@
 
 ![_2021-03-02__3 31 17](https://user-images.githubusercontent.com/40922963/110082056-31605b00-7dd0-11eb-9b9e-664807c07c6c.png)
 
-															[대략적인 구조 파악에 적합한 이미지라 생각한다.](https://www.dazhuanlan.com/2020/05/05/5eb177b463a57/)  
+[대략적인 구조 파악에 적합한 이미지라 생각한다.](https://www.dazhuanlan.com/2020/05/05/5eb177b463a57/)  
 
 ![스크린샷 2021-03-02 오후 7 23 32](https://user-images.githubusercontent.com/40922963/110082067-345b4b80-7dd0-11eb-9aff-ee92b38a12e0.png)
 
-																	[자세한 구조를 알기에 적합한 이미지](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
+[자세한 구조를 알기에 적합한 이미지](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
 
 - JDK(Java Development Kit) = JRE + Dev Tools
 
@@ -75,7 +75,8 @@
         6. Java CARD
 
         ![스크린샷 2021-03-02 오후 7 38 59](https://user-images.githubusercontent.com/40922963/110082083-391fff80-7dd0-11eb-98a4-24dbf138be8a.png)
-           											[이미지 출처](https://honbabzone.com/java/java-jvm/)
+	
+           			[이미지 출처](https://honbabzone.com/java/java-jvm/)
 
 ### 정리
 
@@ -84,8 +85,8 @@
 ## JAVA 프로그램 동작과정
 
 ![_2021-03-02__8 17 39](https://user-images.githubusercontent.com/40922963/110082096-3d4c1d00-7dd0-11eb-8765-8c9329e8e092.png)
-
-																				[이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
+																			
+[이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
 
 1. 코드 작성 : 이부분은 아직 JDK의 영역이 아니다. IDE(Eclipse, IntelliJ ...)의 부분
 
