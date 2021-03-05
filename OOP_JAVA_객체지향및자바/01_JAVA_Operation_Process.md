@@ -3,7 +3,7 @@
 
 스터디원들의 개별 정리자료 링크
 
-- [김민섭](https://www.notion.so/JVM-1-8c03a7155c5549278b36fd0fcad0c7af)
+- [김민섭](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
 - [정회형](https://www.notion.so/hotheadfactory/Java-JVM-7ac82825736e4305affbf291cef138aa)
 - [김종근](https://github.com/Bellroute/TIL/blob/master/Java/JVM%20%EA%B5%AC%EC%A1%B0.md)
 
