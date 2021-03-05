@@ -76,8 +76,7 @@
 
         ![스크린샷 2021-03-02 오후 7 38 59](https://user-images.githubusercontent.com/40922963/110082083-391fff80-7dd0-11eb-98a4-24dbf138be8a.png)
 	
-           			[이미지 출처](https://honbabzone.com/java/java-jvm/)
-
+		[이미지 출처](https://honbabzone.com/java/java-jvm/)
 ### 정리
 
 자바의 특징 중 하나는 `Write once, Run anywhere` 이다. 즉,  Write/Run을 한다면 JDK가 필요하고, Run만 하고자 한다면 JRE가 필요하다.
