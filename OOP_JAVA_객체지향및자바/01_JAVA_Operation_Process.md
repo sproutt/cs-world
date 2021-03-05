@@ -1,14 +1,21 @@
 ## JAVA 프로그램 구성
+----------------
+
+스터디원들의 개별 정리자료 링크
+
+- [김민섭](https://www.notion.so/JVM-1-8c03a7155c5549278b36fd0fcad0c7af)
+- [정회형](https://www.notion.so/hotheadfactory/Java-JVM-7ac82825736e4305affbf291cef138aa)
+- [김종근](https://github.com/Bellroute/TIL/blob/master/Java/JVM%20%EA%B5%AC%EC%A1%B0.md)
 
 ```
 자바의 동작과정을 이해하려면 자바의 프로그램 구성을 먼저 이해해야한다고 생각했다.
 ```
 
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c064a0-e31b-4de0-bcd1-f4a014d4fe5e/_2021-03-02__3.31.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c064a0-e31b-4de0-bcd1-f4a014d4fe5e/_2021-03-02__3.31.17.png)
 
 ​															[대략적인 구조 파악에 적합한 이미지라 생각한다.](https://www.dazhuanlan.com/2020/05/05/5eb177b463a57/)  
 
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77750992-cbb3-4eef-a9f8-c0dc4c5b71d2/_2021-03-02__7.23.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77750992-cbb3-4eef-a9f8-c0dc4c5b71d2/_2021-03-02__7.23.32.png)
 
 ​																	[자세한 구조를 알기에 적합한 이미지](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
 
@@ -67,7 +74,7 @@
 
         6. Java CARD
 
-           
+           ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b665d28f-8bdd-4244-be1d-e4304c5c0d67/_2021-03-02__7.38.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b665d28f-8bdd-4244-be1d-e4304c5c0d67/_2021-03-02__7.38.59.png)
 
            ​											[이미지 출처](https://honbabzone.com/java/java-jvm/)
 
@@ -77,7 +84,7 @@
 
 ## JAVA 프로그램 동작과정
 
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95738800-9b72-4830-a4a1-07a88edede86/_2021-03-02__8.17.39.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95738800-9b72-4830-a4a1-07a88edede86/_2021-03-02__8.17.39.png)
 
 ​																				[이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
 
