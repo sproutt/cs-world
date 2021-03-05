@@ -1,4 +1,4 @@
-## JAVA 프로그램 구성
+# JAVA 프로그램 구성
 ----------------
 
 스터디원들의 개별 정리자료 링크
@@ -11,13 +11,13 @@
 자바의 동작과정을 이해하려면 자바의 프로그램 구성을 먼저 이해해야한다고 생각했다.
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c064a0-e31b-4de0-bcd1-f4a014d4fe5e/_2021-03-02__3.31.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c064a0-e31b-4de0-bcd1-f4a014d4fe5e/_2021-03-02__3.31.17.png)
+![_2021-03-02__3 31 17](https://user-images.githubusercontent.com/40922963/110082056-31605b00-7dd0-11eb-9b9e-664807c07c6c.png)
 
-​															[대략적인 구조 파악에 적합한 이미지라 생각한다.](https://www.dazhuanlan.com/2020/05/05/5eb177b463a57/)  
+															[대략적인 구조 파악에 적합한 이미지라 생각한다.](https://www.dazhuanlan.com/2020/05/05/5eb177b463a57/)  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77750992-cbb3-4eef-a9f8-c0dc4c5b71d2/_2021-03-02__7.23.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77750992-cbb3-4eef-a9f8-c0dc4c5b71d2/_2021-03-02__7.23.32.png)
+![스크린샷 2021-03-02 오후 7 23 32](https://user-images.githubusercontent.com/40922963/110082067-345b4b80-7dd0-11eb-9aff-ee92b38a12e0.png)
 
-​																	[자세한 구조를 알기에 적합한 이미지](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
+																	[자세한 구조를 알기에 적합한 이미지](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
 
 - JDK(Java Development Kit) = JRE + Dev Tools
 
@@ -74,9 +74,8 @@
 
         6. Java CARD
 
-           ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b665d28f-8bdd-4244-be1d-e4304c5c0d67/_2021-03-02__7.38.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b665d28f-8bdd-4244-be1d-e4304c5c0d67/_2021-03-02__7.38.59.png)
-
-           ​											[이미지 출처](https://honbabzone.com/java/java-jvm/)
+        ![스크린샷 2021-03-02 오후 7 38 59](https://user-images.githubusercontent.com/40922963/110082083-391fff80-7dd0-11eb-98a4-24dbf138be8a.png)
+           											[이미지 출처](https://honbabzone.com/java/java-jvm/)
 
 ### 정리
 
@@ -84,9 +83,9 @@
 
 ## JAVA 프로그램 동작과정
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95738800-9b72-4830-a4a1-07a88edede86/_2021-03-02__8.17.39.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95738800-9b72-4830-a4a1-07a88edede86/_2021-03-02__8.17.39.png)
+![_2021-03-02__8 17 39](https://user-images.githubusercontent.com/40922963/110082096-3d4c1d00-7dd0-11eb-8765-8c9329e8e092.png)
 
-​																				[이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
+																				[이미지 출처](http://www.tcpschool.com/java/java_intro_programming)
 
 1. 코드 작성 : 이부분은 아직 JDK의 영역이 아니다. IDE(Eclipse, IntelliJ ...)의 부분
 
