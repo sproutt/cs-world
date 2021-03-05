@@ -7,7 +7,7 @@
 - [김민섭](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a)
 - [이혁진](https://www.notion.so/hyukhyukk/TCP-vs-UDP-c86d09bb8d654f73948570d6b8ff97a6)
 - [정회형](https://www.notion.so/hotheadfactory/TCP-UDP-0287fe375d3e437095f12547c947d440)
-- 김종근
+- [김종근](https://github.com/Bellroute/TIL/blob/master/Network/TCP%EC%99%80UDP.md)
 
 ## 전송 계층
 
