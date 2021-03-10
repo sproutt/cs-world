@@ -3,9 +3,9 @@
 
 스터디원들의 개별 정리자료 링크
 
-- [김민섭](https://www.notion.so/JAVA-8690a40b3b3b4b06ba03c33428805b1f)
-- [정회형](https://www.notion.so/hotheadfactory/Java-JVM-7ac82825736e4305affbf291cef138aa)
-- [김종근](https://github.com/Bellroute/TIL/blob/master/Java/JVM%20%EA%B5%AC%EC%A1%B0.md)
+- [김민섭](https://www.notion.so/JVM-3-Execution-Engine-eb9b7745ba264add8f1311647d19d478)
+- [정회형](https://www.notion.so/hotheadfactory/Java-Execution-Engine-7f547a1b3a914950aa893b7983fdecf3)
+- [김종근](https://github.com/Bellroute/TIL/blob/master/Java/JVM-Execution%20Engine.md)
 
 ## Execution Engine이란?
 
