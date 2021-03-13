@@ -20,7 +20,7 @@ PC Register와 JVM Stack, Native Method Stack은 Thread 별로 생성되고, Met
 
 ## Runtime Data Area의 구조
 
-![_2021-03-07__10.49.18](/Users/hkeylocal/Downloads/_2021-03-07__10.49.18.png)
+![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F63ace912-0e3f-4b63-b9b7-c1964cf2aa52%2F_2021-03-07__10.49.18.png?table=block&id=9a618384-b14d-4000-a307-bbd7add50ef7&width=960&userId=&cache=v2)
 
 이 중 PC Register, JVM Stack, Native Method Stack은 스레드별로 존재하며, Heap, Method Area는 모든 스레드가 공유한다.
 
