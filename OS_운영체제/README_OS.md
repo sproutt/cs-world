@@ -1,12 +1,13 @@
-# OOP / JAVA ☕️
+# 운영체제 💻
 
 | No.  | contents                                                     | author                                              |
 | ---- | ------------------------------------------------------------ | --------------------------------------------------- |
-| 1    | [JAVA 동작과정](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/01_JAVA_Operation_Process.md) | [Ilisha29](https://github.com/Ilisha29)             |
-| 2    | [JVM_클래스로더](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/02_JVM_ClassLoader.md) | [Bellroute](https://github.com/Bellroute)           |
-| 3    | [JVM_Runtime_Data_Area](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/03_JVM_Runtime_Data_Area.md) | [hotheadfactory](https://github.com/hotheadfactory) |
-| 4    | [JVM_Execution_Engine](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/04_JVM_Execution_Engine.md) | [Ilisha29](https://github.com/Ilisha29)             |
-| 5    | [JVM_Garbage_Collection](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/05_JVM_Garbage_Collection.md) | [Bellroute](https://github.com/Bellroute)           |
+| 1    | [프로세스와 스레드]() | [hotheadfactory](https://github.com/hotheadfactory) |
+| 2    | [CPU 스케줄링]() | [Ilisha29](https://github.com/Ilisha29)             |
+| 3    | [프로세스 동기화]() | [Bellroute](https://github.com/Bellroute)           |
+| 4    | [교착상태]() | [hotheadfactory](https://github.com/hotheadfactory) |
+| 5    | [메모리 관리 전략]() | [Ilisha29](https://github.com/Ilisha29)             |
+| 6    | [가상메모리]() | [Bellroute](https://github.com/Bellroute)           |
 |      |                                                              |                                                     |
 |      |                                                              |                                                     |
 
