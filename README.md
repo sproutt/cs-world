@@ -5,7 +5,7 @@
 
 - [네트워크](https://github.com/sproutt/cs-world/tree/main/Network_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README_NETWORK.md) 🌐
 - [운영체제](https://github.com/sproutt/cs-world/blob/main/OS_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/README_OS.md) 💻
-- 데이터베이스 💿
+- [데이터베이스](https://github.com/sproutt/cs-world/blob/main/Database_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/README_DATABASE.md) 💿
 - [OOP / JAVA](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/README_OOP_JAVA.md) ☕️
 - [자료구조](https://github.com/sproutt/cs-world/blob/main/DataStructure_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/README_DATA_STRUCTURE.md) 📂
 - Etc
