@@ -1,13 +1,16 @@
-# 운영체제 💻
+# 디자인패턴 🎨
 
 | No.  | contents                                                     | author                                              |
 | ---- | ------------------------------------------------------------ | --------------------------------------------------- |
-| 1    | [프로세스와 스레드]()                                        | [hotheadfactory](https://github.com/hotheadfactory) |
-| 2    | [CPU 스케줄링](https://github.com/sproutt/cs-world/blob/main/OS_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02_CPU_%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md) | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a)             |
-| 3    | [프로세스 동기화](https://github.com/sproutt/cs-world/blob/main/OS_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/03_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4_%EB%8F%99%EA%B8%B0%ED%99%94.md) | [Bellroute](https://github.com/Bellroute)           |
-| 4    | [교착상태]()                                                 | [hotheadfactory](https://github.com/hotheadfactory) |
-| 5    | [메모리 관리 전략](https://github.com/sproutt/cs-world/blob/main/OS_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/05_%EB%A9%94%EB%AA%A8%EB%A6%AC_%EA%B4%80%EB%A6%AC_%EC%A0%84%EB%9E%B5.md)                                         | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a)             |
-| 6    | [가상메모리]()                                               | [Bellroute](https://github.com/Bellroute)           |
-|      |                                                              |                                                     |
-|      |                                                              |                                                     |
-
+| 1    | [디자인 패턴 / 전략 패턴]()                                        | [Bellroute](https://github.com/Bellroute) |
+| 2    | [템플릿 메서드 패턴]() | [hotheadfactory](https://github.com/hotheadfactory)             |
+| 3    | [상태 패턴]() | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a) |
+| 4    | [데코레이터 패턴]() |   [Bellroute](https://github.com/Bellroute)   |
+| 5    | [프록시 패턴]()     |  [hotheadfactory](https://github.com/hotheadfactory)    |
+| 6    | [어댑터 패턴]()   | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a) |
+| 7    | [옵저버 패턴]()  |  [Bellroute](https://github.com/Bellroute) |
+| 8    | [미디에이터 패턴]()  | [hotheadfactory](https://github.com/hotheadfactory) |
+| 9    | [파사드 패턴]()  | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a)  |
+| 10   | [추상팩토리 패턴]()  | [Bellroute](https://github.com/Bellroute) |
+| 11   | [컴포지트 패턴]()  | [hotheadfactory](https://github.com/hotheadfactory)  |
+| 12   | [널객체 패턴]()  | [Ilisha29](https://www.notion.so/CS-9bc6faf434904ec2b870c84f8c06280a) |
