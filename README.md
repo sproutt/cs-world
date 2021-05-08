@@ -8,6 +8,7 @@
 - [데이터베이스](https://github.com/sproutt/cs-world/blob/main/Database_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/README_DATABASE.md) 💿
 - [OOP / JAVA](https://github.com/sproutt/cs-world/blob/main/OOP_JAVA_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%B0%8F%EC%9E%90%EB%B0%94/README_OOP_JAVA.md) ☕️
 - [자료구조](https://github.com/sproutt/cs-world/blob/main/DataStructure_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/README_DATA_STRUCTURE.md) 📂
+- [디자인패턴]() 🎨
 - Etc
 
 ## 스터디 형식
